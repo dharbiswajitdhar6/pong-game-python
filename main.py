@@ -1,6 +1,6 @@
 from turtle import Turtle,Screen
-from Paddle import paddle
-from Ball import ball
+from paddle import paddle
+from ball import ball
 from score import Scoreboard
 import time
 
