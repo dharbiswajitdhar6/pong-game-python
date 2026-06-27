@@ -37,7 +37,7 @@ pong-game-python/
 │── Paddle.py
 │── Ball.py
 │── score.py
-│── pong_img.png
+│── pong_image.png
 └── README.md
 ```
 
