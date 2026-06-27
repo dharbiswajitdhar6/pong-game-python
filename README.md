@@ -4,7 +4,7 @@ A classic two-player Pong game built using **Python Turtle Graphics** and **Obje
 
 ## 📸 Screenshot
 
-![Pong Game](pong_img.png)
+![Pong Game](pong_image.png)
 
 ## ✨ Features
 
