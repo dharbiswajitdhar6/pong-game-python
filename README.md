@@ -43,19 +43,6 @@ pong-game-python/
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/dharbiswajitdhar6/pong-game-python.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd pong-game-python
-   ```
-
-3. Run the game:
 
    ```bash
    python main.py
